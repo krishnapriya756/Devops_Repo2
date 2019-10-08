@@ -8,7 +8,7 @@ public class welcome {
 		System.out.println("branch1");
 
 	}
-	void class B
+	void class D
 	{
 		int a, b, c;
 		c = a+b;
