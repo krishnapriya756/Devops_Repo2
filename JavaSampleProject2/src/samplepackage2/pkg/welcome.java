@@ -9,7 +9,7 @@ public class welcome {
 
 	}
 	
-	void class C
+	void class P
 	{
 		int e, f, g;
 		g = e + f;
