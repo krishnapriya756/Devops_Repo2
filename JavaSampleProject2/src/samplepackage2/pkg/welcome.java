@@ -8,5 +8,11 @@ public class welcome {
 		System.out.println("branch1");
 
 	}
+	void class B
+	{
+		int a, b, c;
+		c = a+b;
+		
+	}
 
 }
