@@ -14,4 +14,9 @@ public class FirstClass {
 
 	}
 
+	public void test()
+	{
+	int m, n, o;
+		o=m+p;
+	}
 }
