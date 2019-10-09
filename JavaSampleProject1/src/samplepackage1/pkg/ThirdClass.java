@@ -10,6 +10,7 @@ public class ThirdClass {
 	private void Sam2() {
 		// TODO Auto-generated method stub
 		System.out.println("My Third Program2");
+		System.out.println("My Third Program3");
 
 	}
 	public static void main(String[] args) {
